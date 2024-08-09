@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/11/Desktop/FPGA/8bit_CPU/8bit_CPU.srcs/sources_1/new/maddr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maddr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/11/Desktop/FPGA/8bit_CPU/8bit_CPU.srcs/sources_1/new/maddr_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maddr_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/11/Desktop/FPGA/8bit_CPU/8bit_CPU.srcs/sim_1/new/tb_maddr_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_maddr_counter
